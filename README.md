@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I´M João José 👋
 
 
 Here are some ideas to get you started:
@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+```
+javascript
+
+const Name = "João Jose"
+
+````
