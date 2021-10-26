@@ -1,20 +1,13 @@
 ### Hi there, I´M João José 👋
 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying Front and Backend Web Developer
+- 🌱 I’m currently learning `React.js` `Node.js` `Next.js` `Typescript` and `Mongo DB`
+- 👯 I’m looking to collaborate on `OPEN SOURCE EDUCATIONALS AND SOCIALS PROJECTS`
+- 💬 Ask me about `Html5` `Css3` `Javascript` and `styled-components`
+- 😄 Pronouns: Jhony
+- ⚡ Fun fact: I like to joke
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-```
-javascript
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-const Name = "João Jose"
-
-````
