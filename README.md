@@ -2,9 +2,9 @@
 ### Hi there, I´M Jhony Monteiiro 👋 
 
 - 🔭 I’m currently Front-and Web Developer
-- 🌱 I’m currently learning `React.js` `Node.js` `Next.js` `Typescript` and `Mongo DB`
+- 🌱 I’m currently learning  `Node.js` and `Mongo DB`
 - 👯 I’m looking to collaborate on `OPEN SOURCE EDUCATIONALS AND SOCIALS PROJECTS`
-- 💬 Ask me about `Html5` `Css3` `Javascript` and `styled-components`
+- 💬 Ask me about `Html5` `Css3` `React.js` `Javascript` `Typescript` and `styled-components`
 - 😄 Pronouns: Jhony
 - ⚡ Fun fact: I like to joke
 - E-mail : `johnymonteiiro@gmail.com`
