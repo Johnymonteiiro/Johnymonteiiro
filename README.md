@@ -1,19 +1,13 @@
 
-### Hi there, I´M Jhony Monteiiro 👋 
+## Jhony Monteiiro 👋 
+I'm Software engineer and UI Designer. I have got more than tree years of software development experience.</br>
+Passionate software engineer with a good understanding in <strong>Full-Stack </strong> development and implementing innovative software solutions that drive business success.
 
-- 🔭 I’m currently Front-and Web Developer
-- 🌱 I’m currently learning  `Node.js` and `Mongo DB`
-- 👯 I’m looking to collaborate on `OPEN SOURCE EDUCATIONALS AND SOCIALS PROJECTS`
-- 💬 Ask me about `Html5` `Css3` `React.js` `Javascript` `Typescript` and `styled-components`
-- 😄 Pronouns: Jhony
-- ⚡ Fun fact: I like to joke
-- E-mail : `johnymonteiiro@gmail.com`
+- 👯 You can invite me to collaborate on `OPEN SOURCE EDUCATIONALS AND SOCIALS PROJECTS`
 
-#### Contacts:
+#### Contact:
 
-[![Rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-%23802BCF)](https://app.rocketseat.com.br/me/joao-jose-sebastiao-09307)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/joao-sebastiao)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnymonteiiro&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnymonteiiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
