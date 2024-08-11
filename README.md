@@ -2,7 +2,7 @@
 I'm a Software Engineer and UI Designer with over four years of experience in building innovative, full-stack solutions that drive business success.
 
 ## About Me
-Passionate about software development, I specialize in Full-Stack development and am dedicated to creating impactful software solutions. With a strong focus on clean, maintainable code and user-centered design, I enjoy solving challenges and turning ideas into reality.
+Passionate about software development, I specialize in Full-Stack development and am dedicated to creating impactful software solutions. With a strong focus on clean, maintainable code and user-centered design, I enjoy solving challenges and turning ideas into reality. Sometimes I help others developers at the communities, workmates or friends giving ideias, coding, talking about technologies and much more.
 
 ### 💡 Open to Collaborate: 
  I'm always excited to work on open source projects, especially those in the education and social impact domains. Let's build something great together!
