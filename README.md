@@ -1,10 +1,15 @@
-# Jhony Monteiiro 👋 
-I'm Software engineer and UI Designer. I have got more than tree years of software development experience.</br>
-Passionate software engineer with a good understanding in <strong>Full-Stack </strong> development and implementing innovative software solutions that drive business success.
+# Jhony Monteiiro 👋
+I'm a Software Engineer and UI Designer with over four years of experience in building innovative, full-stack solutions that drive business success.
 
-- 👯 You can invite me to collaborate on `OPEN SOURCE EDUCATIONALS AND SOCIALS PROJECTS`
+## About Me
+Passionate about software development, I specialize in Full-Stack development and am dedicated to creating impactful software solutions. With a strong focus on clean, maintainable code and user-centered design, I enjoy solving challenges and turning ideas into reality.
 
-#### Contact:
+### 💡 Open to Collaborate: 
+ I'm always excited to work on open source projects, especially those in the education and social impact domains. Let's build something great together!
+ 
+### 📬 Let's Connect
+Feel free to reach out if you'd like to discuss potential collaborations or just want to chat about tech and design!
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/joao-sebastiao)
 
