@@ -1,4 +1,4 @@
-# Jhony Monteiiro 👋
+# JOÃO JOSÉ 👋
 I'm a Software Engineer and UI Designer with over four years of experience in building innovative, full-stack solutions that drive business success.
 
 ## About Me
