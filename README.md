@@ -9,5 +9,4 @@ Nothing makes me happier than seeing something I designed actually being used. I
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/joao-sebastiao)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnymonteiiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
