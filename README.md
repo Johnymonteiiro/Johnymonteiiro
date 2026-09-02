@@ -1,15 +1,11 @@
 # JOÃO JOSÉ 👋
-I'm a Software Engineer and UI Designer with over four years of experience in building innovative, full-stack solutions that drive business success.
+I'm João José, a Software Engineer focused on fullstack development and distributed systems. I'm drawn to how systems and, more recently, agents communicate to solve real problems. Five years of experience, mostly in Node.js, NestJS and Python, with React and Next.js on the frontend.
 
-## About Me
-Passionate about software development, I specialize in Full-Stack development and am dedicated to creating impactful software solutions. With a strong focus on clean, maintainable code and user-centered design, I enjoy solving challenges and turning ideas into reality. Sometimes I help others developers at the communities, workmates or friends giving ideias, coding, talking about technologies and much more.
+One of my most recent projects was migrating a legacy Delphi ERP to multi-tenant NestJS microservices, covering e-commerce integration, tax document issuance and queue-based processing. Before that, I led IRIS, a Brazilian Sign Language (Libras) learning platform, from architecture to delivery. It's now used by more than 140 students across three public schools, in the classroom.
 
-### 💡 Open to Collaborate: 
- I'm always excited to work on open source projects, especially those in the education and social impact domains. Let's build something great together!
- 
-### 📬 Let's Connect
-Feel free to reach out if you'd like to discuss potential collaborations or just want to chat about tech and design!
-<br/>
+These days I'm building solutions with AI agents (LangChain, LangGraph) and computer vision. It's the direction I've been studying, applying and going deeper into.
+
+Nothing makes me happier than seeing something I designed actually being used. If you're building something like that, let's talk.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/joao-sebastiao)
 
